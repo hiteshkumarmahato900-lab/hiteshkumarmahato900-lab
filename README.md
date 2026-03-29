@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Hitesh Kumar Mahato
+**Student of Cyber Security || DevOps Engineer || Admin from India**
+
+Email Me 👉 ✉️ **hiteshkumarmahato900@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Web Development
+- 🌱 **I’m currently learning:** Backend 
+- 👯 **I’m looking to collaborate on:** Microsoft
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:**  hiteshkumarmahato900@gmail.com
+- 😄 **Pronouns:** Hitesh
+- ⚡ **Fun fact:** I Love Coding And learn New Things
  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MahatoRaju) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_hitesh_ind) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hiteshkumarmahato900@gmail.com) 
