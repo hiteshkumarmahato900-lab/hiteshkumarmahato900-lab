@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **hiteshkumarmahato900@gmail.com** For Collaboration/Projec
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:**  hiteshkumarmahato900@gmail.com
 - 😄 **Pronouns:** Hitesh
-- ⚡ **Fun fact:** I Love Coding And learn New Things
+- ⚡ **Fun fact:** I Love Coding And learn New Things 
  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MahatoRaju) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_hitesh_ind) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hiteshkumarmahato900@gmail.com) 
